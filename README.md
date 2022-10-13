@@ -1,5 +1,5 @@
 # Joel Bautista 
-# Carrito Flutte
+# Carrito Flutter
 
 
 El siguiente codigo se ve la parte grafica de como el carrito de compras quedo 
