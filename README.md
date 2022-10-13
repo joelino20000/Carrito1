@@ -1,16 +1,10 @@
-# carrito
+# Joel Bautista 
+# Carrito Flutte
 
-A new Flutter project.
 
-## Getting Started
+El siguiente codigo se ve la parte grafica de como el carrito de compras quedo 
+![image](https://user-images.githubusercontent.com/101758506/195657390-889f740a-085e-445d-9d5e-083d02a2e19e.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+aca se puede evidenciar como se añade al carro
+![image](https://user-images.githubusercontent.com/101758506/195657540-20e17aa8-7df7-4e72-8e89-27c9fce193c7.png)
